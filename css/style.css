@@ -177,7 +177,7 @@ li a {
     box-shadow:-15px 7px 30px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
     margin: 50px;
-    background-image: url("/images/Lemonade\ Stand\ Context\ 1.jpg");
+    background-image: url('../images/Lemonade\ Stand\ Context\ 1.jpg');
     background-size: cover;
     background-position: center;
 
@@ -192,7 +192,7 @@ li a {
     box-shadow:-15px 7px 30px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
     margin: 50px;
-    background-image: url("/images/pro\ con\ context\ 1.jpg");
+    background-image: url('../images/pro\ con\ context\ 1.jpg');
     background-size: cover;
     background-position: center;
 
@@ -207,7 +207,7 @@ li a {
     box-shadow:-15px 7px 30px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
     margin: 50px;
-    background-image: url("/images/locals\ only\ context.jpg");
+    background-image: url('../images/locals\ only\ context.jpg');
     background-size: cover;
     background-position: center;
 
@@ -270,7 +270,7 @@ li a {
 .about-image {
     height: 300px;
     width: 300px;
-    background-image: url("/images/Avatar.jpeg");
+    background-image: url('../images/Avatar.jpeg');
     background-size: cover;
     background-position: center;
     margin: 20px;
@@ -329,7 +329,7 @@ li a {
         box-shadow:-15px 7px 30px rgba(0, 0, 0, 0.2);
         border-radius: 10px;
         margin: 50px;
-        background-image: url("/images/Lemonade\ Stand\ Context\ 1.jpg");
+        background-image: url('../images/Lemonade\ Stand\ Context\ 1.jpg');
         background-size: cover;
         background-position: center;
     
@@ -344,7 +344,7 @@ li a {
         box-shadow:-15px 7px 30px rgba(0, 0, 0, 0.2);
         border-radius: 10px;
         margin: 50px;
-        background-image: url("/images/pro\ con\ context\ 1.jpg");
+        background-image: url('../images/pro\ con\ context\ 1.jpg');
         background-size: cover;
         background-position: center;
     
@@ -359,7 +359,7 @@ li a {
         box-shadow:-15px 7px 30px rgba(0, 0, 0, 0.2);
         border-radius: 10px;
         margin: 50px;
-        background-image: url("/images/locals\ only\ context.jpg");
+        background-image: url('../images/locals\ only\ context.jpg');
         background-size: cover;
         background-position: center;
     
@@ -394,7 +394,7 @@ li a {
         margin-top: 20px;
         height: 300px;
         width: 225px;
-        background-image: url("/images/Avatar.jpeg");
+        background-image: url('../images/Avatar.jpeg');
         background-size: cover;
         background-position: center;
     }
