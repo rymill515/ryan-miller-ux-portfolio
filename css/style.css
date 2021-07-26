@@ -81,7 +81,7 @@ li a {
 
 .image-container {
     position: relative;
-    background-image: url("/images/backdrop\ organic.jpg");
+    background-image: url('../images/backdrop\ organic.jpg');
     background-size: cover;
     background-position: center;
     height: 100%;
