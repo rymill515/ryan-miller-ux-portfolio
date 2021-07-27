@@ -251,7 +251,40 @@ li a {
     margin-top: 40px;
 }
 
+.projects-cta {
+    border: 2px solid rgb(0, 0, 0);
+    width: 165px;
+    height: 100px;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 0;
+    border-radius: 5px;
+}
+
+.projects-cta  {
+    margin: 0;
+    padding: 20px;
+    position: relative;
+    top: 40px;
+    left: 45%;
+
+  }
+
+.projects-cta:hover {
+    background-color: rgb(104, 104, 104) ;
+}
+
+
 /* ABOUT SECTION */
+
+.project-header2 {
+    font-size: 3rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
 
 .about-container {
     margin: 10%;
@@ -368,9 +401,13 @@ li a {
     
     }
 
-    .project-header {
-        text-decoration: underline;
-    }
+    .projects-cta  {
+        margin: 0;
+        position: relative;
+        top: 50px;
+        left: 20%;
+    
+      }
 
     .text-container:hover {
         height: 350px;
