@@ -141,6 +141,7 @@ li a {
 }
 
 
+
 /* PROJECTS SECTION*/
 
 .project-container {
@@ -263,13 +264,10 @@ li a {
     
 }
 
-.projects-cta {
-    font-size: x-large;
-    color: var(--dark-blue);
-    background-color: white;
-    border-radius: 5px;
-    padding: 10px;
+.project-header3:hover {
+    text-decoration: underline;
 }
+
 
 /* ABOUT SECTION */
 
@@ -396,6 +394,11 @@ li a {
         background-size: cover;
         background-position: center;
     
+    }
+
+    .project-header3 {
+        display: flex;
+        text-align: center;
     }
     
 
