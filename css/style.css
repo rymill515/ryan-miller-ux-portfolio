@@ -339,41 +339,6 @@ li a {
 
   }
 
-  .header {
-    padding: 20px;
-    cursor: pointer;
-    color: rgb(0, 0, 0);
-    text-align: center;
-    margin-top: 5px;
-  }
-  
-  .header.close:after {
-    content:"Show Less";
-    font-size: 2rem;
-  }
-
-  .header:after {
-    content:"Show More";
-    font-size:2rem;
-    color: var(--dark-blue);
-  }
-
-  .content {
-      text-align: center;
-      display: none;
-      padding: 10px;
-  }
-
-  .more-about {
-    background-color: none;
-    height: auto;
-    width: 500px;
-    font-size: 1.5rem;
-    display: inline-block;
-    text-align: center;
-    padding: 20px;
-
-  }
 
 /* MOBILE SECTION */
 
